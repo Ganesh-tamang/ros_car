@@ -33,8 +33,7 @@
         <origin xyz="0.0 0.0 0.0" />
     </joint>
 
-    <link name="base_footprint">
-        
+    <link name="base_footprint"> 
     </link>
 
     <!-- CHASSIS LINK -->
